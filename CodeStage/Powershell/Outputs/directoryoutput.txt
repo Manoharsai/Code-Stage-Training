@@ -1,0 +1,406 @@
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+d-----       13/08/2019     16:15                en-US                                                                 
+d-----       13/08/2019     16:15                gsw-LI                                                                
+d-----       13/08/2019     16:15                Installers                                                            
+d-----       13/08/2019     16:15                ja-JP                                                                 
+d-----       13/08/2019     16:15                Plugin                                                                
+d-----       13/08/2019     16:15                Plugins                                                               
+d-----       13/08/2019     16:15                Resources                                                             
+d-----       13/08/2019     16:15                Skills                                                                
+d-----       13/08/2019     16:15                Tesseract                                                             
+d-----       13/08/2019     16:15                VBO                                                                   
+d-----       13/08/2019     16:15                zh-Hans                                                               
+-a----       05/08/2019     09:12           4306 Actions.xml                                                           
+-a----       05/08/2019     09:17         316648 Activator32.exe                                                       
+-a----       05/08/2019     09:12         262656 AForge.Imaging.dll                                                    
+-a----       05/08/2019     09:13            537 all-blueprism.js                                                      
+-a----       05/08/2019     09:17         470744 AMI.dll                                                               
+-a----       05/08/2019     09:13           4505 apihtmlcss.xsl                                                        
+-a----       05/08/2019     09:17         133896 ApplicationManagerUtilities.dll                                       
+-a----       05/08/2019     09:18          52960 AppMan.exe                                                            
+-a----       05/08/2019     09:12           1728 AppMan.exe.config                                                     
+-a----       05/08/2019     09:18          46304 AppMan32.exe                                                          
+-a----       05/08/2019     09:12           1728 AppMan32.exe.config                                                   
+-a----       05/08/2019     09:13         218112 AutoFac.dll                                                           
+-a----       05/08/2019     09:13          23552 Autofac.Extras.NLog.dll                                               
+-a----       05/08/2019     09:19         156384 Automate.exe                                                          
+-a----       05/08/2019     09:13           2461 Automate.exe.config                                                   
+-a----       05/08/2019     09:18        2716912 AutomateAppCore.dll                                                   
+-a----       05/08/2019     09:18         181472 AutomateC.exe                                                         
+-a----       05/08/2019     09:12           2350 AutomateC.exe.config                                                  
+-a----       05/08/2019     09:18        1416432 AutomateConfig.exe                                                    
+-a----       05/08/2019     09:12           2368 AutomateConfig.exe.config                                             
+-a----       05/08/2019     09:17         807664 AutomateControls.dll                                                  
+-a----       05/08/2019     09:16        8231476 AutomateHelp.chm                                                      
+-a----       05/08/2019     09:17        8733728 AutomateHelp_ja-JP.chm                                                
+-a----       05/08/2019     09:17        8478736 AutomateHelp_zh-Hans.chm                                              
+-a----       05/08/2019     09:17        1192184 AutomateProcessCore.dll                                               
+-a----       05/08/2019     09:17         828128 AutomateS.exe                                                         
+-a----       05/08/2019     09:19       11133160 AutomateUI.dll                                                        
+-a----       05/08/2019     09:17          94472 BluePrism.BrowserAutomation.dll                                       
+-a----       05/08/2019     09:17          54000 BluePrism.Caching.dll                                                 
+-a----       05/08/2019     09:17         157424 BluePrism.Core.dll                                                    
+-a----       05/08/2019     09:17          68848 BluePrism.Data.dll                                                    
+-a----       05/08/2019     09:17          23552 BluePrism.DataPipeline.dll                                            
+-a----       05/08/2019     09:18          43520 BluePrism.Datapipeline.Logstash.dll                                   
+-a----       05/08/2019     09:13          30720 BluePrism.DocumentProcessing.Api.Models.dll                           
+-a----       05/08/2019     09:17          66848 BluePrism.DocumentProcessing.Integration.dll                          
+-a----       05/08/2019     09:13           6656 BluePrism.DocumentProcessing.ServerPlugin.Messages.dll                
+-a----       05/08/2019     09:17        2242800 BluePrism.Images.dll                                                  
+-a----       05/08/2019     09:17          54512 BluePrism.Skills.dll                                                  
+-a----       05/08/2019     09:18          57072 BluePrism.StartUp.dll                                                 
+-a----       05/08/2019     09:17         151808 BluePrism.UIAutomation.dll                                            
+-a----       05/08/2019     09:13          35328 BluePrism.Utilities.Functional.dll                                    
+-a----       05/08/2019     09:18          24576 BluePrism.WorkQueueAnalysis.dll                                       
+-a----       05/08/2019     09:17         201976 BPATerminalEmulation.dll                                              
+-a----       05/08/2019     09:17         331488 BPCoreLib.dll                                                         
+-a----       05/08/2019     09:18         805608 BPDiagnostics.exe                                                     
+-a----       05/08/2019     09:12           1636 BPDiagnostics.exe.config                                              
+-a----       05/08/2019     09:16         211688 BpInjAgent.dll                                                        
+-a----       05/08/2019     09:17         218344 BpInjAgentD.dll                                                       
+-a----       05/08/2019     09:17         132840 BPScheduler.dll                                                       
+-a----       05/08/2019     09:19         616160 BPServer.exe                                                          
+-a----       05/08/2019     09:12           2561 BPServer.exe.config                                                   
+-a----       05/08/2019     09:19          51952 BPServerService.exe                                                   
+-a----       05/08/2019     09:12           2373 BPServerService.exe.config                                            
+-a----       05/08/2019     09:17         621288 CharMatching.dll                                                      
+-a----       05/08/2019     09:17         108768 Citrix.dll                                                            
+-a----       05/08/2019     09:17         569576 ClientComms.dll                                                       
+-a----       05/08/2019     09:17          49384 ClientCommsI.dll                                                      
+-a----       05/08/2019     09:16          47848 ContainerApp.dll                                                      
+-a----       05/08/2019     09:16          55512 DDE.dll                                                               
+-a----       05/08/2019     09:13          96256 De.TorstenMandelkow.MetroChart.dll                                    
+-a----       05/08/2019     09:12         400243 End User Licence Agreement.rtf                                        
+-a----       05/08/2019     09:13          11264 FeatureToggle.Core.dll                                                
+-a----       05/08/2019     09:13          16896 FeatureToggle.dll                                                     
+-a----       05/08/2019     09:16         196642 FirefoxPlugin.xpi                                                     
+-a----       05/08/2019     09:13         105472 Google.Apis.Auth.dll                                                  
+-a----       05/08/2019     09:13          67072 Google.Apis.Core.dll                                                  
+-a----       05/08/2019     09:13          71680 Google.Apis.dll                                                       
+-a----       05/08/2019     09:13         167424 Google.Apis.Sheets.v4.dll                                             
+-a----       05/08/2019     09:13         278528 GreenPipes.dll                                                        
+-a----       05/08/2019     09:17          82648 HTML.dll                                                              
+-a----       05/08/2019     09:13          97108 icon.ico                                                              
+-a----       05/08/2019     09:16          55544 Internationalisation.dll                                              
+-a----       09/10/2018     19:51        1813504 IronPython.dll                                                        
+-a----       05/08/2019     09:17          81640 JABWrapper.dll                                                        
+-a----       05/08/2019     09:13          25088 Jeffijoe.MessageFormat.dll                                            
+-a----       05/08/2019     09:16          44544 LocaleTools.dll                                                       
+-a----       05/08/2019     09:13         208896 ManagedSpyLib.dll                                                     
+-a----       05/08/2019     09:17         231152 ManagedSpyLibNet4.dll                                                 
+-a----       05/08/2019     09:13        1315840 MassTransit.dll                                                       
+-a----       05/08/2019     09:13         232448 MassTransit.RabbitMqTransport.dll                                     
+-a----       05/08/2019     09:13         170288 Microsoft.Diagnostics.Tracing.EventSource.dll                         
+-a----       30/08/2018     12:44         892416 Microsoft.Dynamic.dll                                                 
+-a----       05/08/2019     09:13          31856 Microsoft.IdentityModel.Logging.dll                                   
+-a----       05/08/2019     09:13         142960 Microsoft.IdentityModel.Tokens.dll                                    
+-a----       05/08/2019     09:13         972664 Microsoft.Office.Interop.Outlook.dll                                  
+-a----       30/08/2018     12:44         140800 Microsoft.Scripting.dll                                               
+-a----       30/08/2018     12:44          89600 Microsoft.Scripting.Metadata.dll                                      
+-a----       05/08/2019     09:13         314880 Mono.Security.dll                                                     
+-a----       05/08/2019     09:16         171520 MonthCalendarControl.dll                                              
+-a----       07/09/2019     19:51         770048 MySql.Data.dll                                                        
+-a----       23/08/2017     18:05          98632 netstandard.dll                                                       
+-a----       05/08/2019     09:13          20992 NewId.dll                                                             
+-a----       05/08/2019     09:13          90112 Newtonsoft.Json.Bson.dll                                              
+-a----       05/08/2019     09:13         664576 Newtonsoft.Json.dll                                                   
+-a----       05/08/2019     09:13         704000 NLog.dll                                                              
+-a----       05/08/2019     09:13         476672 NodaTime.dll                                                          
+-a----       07/10/2019     16:32        5007360 Oracle.ManagedDataAccess.dll                                          
+-a----       05/08/2019     09:13         276480 RabbitMQ.Client.dll                                                   
+-a----       05/08/2019     09:13           2723 Readme.txt                                                            
+-a----       05/08/2019     09:12          11765 SAPElements.xml                                                       
+-a----       05/08/2019     09:13         656896 SciLexer.dll                                                          
+-a----       05/08/2019     09:13         588288 ScintillaNET.dll                                                      
+-a----       05/08/2019     09:12           1902 Server.NLog.config                                                    
+-a----       05/08/2019     09:13          24064 SslCertBinding.Net.dll                                                
+-a----       05/08/2019     09:13          43152 System.ComponentModel.Annotations.dll                                 
+-a----       28/03/2019     01:11        1477168 System.dll                                                            
+-a----       05/08/2019     09:13          91248 System.IdentityModel.Tokens.Jwt.dll                                   
+-a----       17/04/2019     16:24         148760 System.Memory.dll.old                                                 
+-a----       23/08/2017     18:05         198488 System.Net.Http.dll                                                   
+-a----       01/11/2019     17:00          16968 System.Runtime.CompilerServices.Unsafe.dll                            
+-a----       13/09/2019     02:28          16760 System.Runtime.CompilerServices.Unsafe.old                            
+-a----       10/09/2019     11:56          17409 System.Runtime.CompilerServices.Unsafe.xml                            
+-a----       13/09/2019     02:29         294264 System.Text.Json.dll                                                  
+-a----       18/06/2019     12:08          33048 System.Threading.Tasks.Extensions.dll                                 
+-a----       15/05/2018     13:29          25232 System.ValueTuple.dll                                                 
+-a----       05/08/2019     09:13         250368 websocket-sharp.dll                                                   
+-a----       05/08/2019     09:17          37600 WindowSpy.dll                                                         
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\en-US
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:16           5120 LocaleTools.resources.dll                                             
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\gsw-LI
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:17         193536 AMI.resources.dll                                                     
+-a----       05/08/2019     09:17          35840 ApplicationManagerUtilities.resources.dll                             
+-a----       05/08/2019     09:18           4096 AppMan.resources.dll                                                  
+-a----       05/08/2019     09:19           3584 Automate.resources.dll                                                
+-a----       05/08/2019     09:17         251392 AutomateAppCore.resources.dll                                         
+-a----       05/08/2019     09:18          55808 AutomateC.resources.dll                                               
+-a----       05/08/2019     09:18         546816 AutomateConfig.resources.dll                                          
+-a----       05/08/2019     09:17         359424 AutomateControls.resources.dll                                        
+-a----       05/08/2019     09:17         369152 AutomateProcessCore.resources.dll                                     
+-a----       05/08/2019     09:19        5084672 AutomateUI.resources.dll                                              
+-a----       05/08/2019     09:17           7680 BluePrism.Core.resources.dll                                          
+-a----       05/08/2019     09:17           4096 BluePrism.Data.resources.dll                                          
+-a----       05/08/2019     09:17           4096 BluePrism.DocumentProcessing.Integration.resources.dll                
+-a----       05/08/2019     09:17           5632 BluePrism.Images.resources.dll                                        
+-a----       05/08/2019     09:17           4096 BluePrism.Skills.resources.dll                                        
+-a----       05/08/2019     09:17          47104 BPATerminalEmulation.resources.dll                                    
+-a----       05/08/2019     09:17          27648 BPCoreLib.resources.dll                                               
+-a----       05/08/2019     09:18         547328 BPDiagnostics.resources.dll                                           
+-a----       05/08/2019     09:17          10752 BPScheduler.resources.dll                                             
+-a----       05/08/2019     09:19         473088 BPServer.resources.dll                                                
+-a----       05/08/2019     09:17         316928 CharMatching.resources.dll                                            
+-a----       05/08/2019     09:17           6144 Citrix.resources.dll                                                  
+-a----       05/08/2019     09:17          68608 ClientComms.resources.dll                                             
+-a----       05/08/2019     09:17           4608 HTML.resources.dll                                                    
+-a----       05/08/2019     09:16          10240 Internationalisation.resources.dll                                    
+-a----       05/08/2019     09:17           5632 JABWrapper.resources.dll                                              
+-a----       05/08/2019     09:16         202752 LocaleTools.resources.dll                                             
+-a----       05/08/2019     09:17           5120 WindowSpy.resources.dll                                               
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Installers
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:16        1400832 LoginAgent_x64.msi                                                    
+-a----       05/08/2019     09:16        1335296 LoginAgent_x86.msi                                                    
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\ja-JP
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:17         184832 AMI.resources.dll                                                     
+-a----       05/08/2019     09:17           8704 ApplicationManagerUtilities.resources.dll                             
+-a----       05/08/2019     09:18           4096 AppMan.resources.dll                                                  
+-a----       05/08/2019     09:19           3584 Automate.resources.dll                                                
+-a----       05/08/2019     09:17         246272 AutomateAppCore.resources.dll                                         
+-a----       05/08/2019     09:18          54272 AutomateC.resources.dll                                               
+-a----       05/08/2019     09:18          29184 AutomateConfig.resources.dll                                          
+-a----       05/08/2019     09:17          12800 AutomateControls.resources.dll                                        
+-a----       05/08/2019     09:17         356352 AutomateProcessCore.resources.dll                                     
+-a----       05/08/2019     09:19         690688 AutomateUI.resources.dll                                              
+-a----       05/08/2019     09:17           7680 BluePrism.Core.resources.dll                                          
+-a----       05/08/2019     09:17           4096 BluePrism.Data.resources.dll                                          
+-a----       05/08/2019     09:18           7168 BluePrism.Datapipeline.Logstash.resources.dll                         
+-a----       05/08/2019     09:17           4608 BluePrism.DataPipeline.resources.dll                                  
+-a----       05/08/2019     09:17           4096 BluePrism.DocumentProcessing.Integration.resources.dll                
+-a----       05/08/2019     09:17           6144 BluePrism.Images.resources.dll                                        
+-a----       05/08/2019     09:17           4096 BluePrism.Skills.resources.dll                                        
+-a----       05/08/2019     09:17          33280 BPATerminalEmulation.resources.dll                                    
+-a----       05/08/2019     09:17          26624 BPCoreLib.resources.dll                                               
+-a----       05/08/2019     09:18          36864 BPDiagnostics.resources.dll                                           
+-a----       05/08/2019     09:17          10240 BPScheduler.resources.dll                                             
+-a----       05/08/2019     09:19          31744 BPServer.resources.dll                                                
+-a----       05/08/2019     09:19           3584 BPServerService.resources.dll                                         
+-a----       05/08/2019     09:17          48128 CharMatching.resources.dll                                            
+-a----       05/08/2019     09:17           4096 Citrix.resources.dll                                                  
+-a----       05/08/2019     09:17          69120 ClientComms.resources.dll                                             
+-a----       05/08/2019     09:17           3584 ClientCommsI.resources.dll                                            
+-a----       05/08/2019     09:17           4608 HTML.resources.dll                                                    
+-a----       05/08/2019     09:16           9728 Internationalisation.resources.dll                                    
+-a----       05/08/2019     09:17           5632 JABWrapper.resources.dll                                              
+-a----       05/08/2019     09:16         191488 LocaleTools.resources.dll                                             
+-a----       05/08/2019     09:17           5120 WindowSpy.resources.dll                                               
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Plugin
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+d-----       13/08/2019     16:15                Cryptography                                                          
+-a----       05/08/2019     09:13           2435 background.js                                                         
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Plugin\Cryptography
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:13           1732 CryptographyProvider.js                                               
+-a----       05/08/2019     09:13            286 HashAlgorithm.js                                                      
+-a----       05/08/2019     09:13            424 SymmetricAlgorithm.js                                                 
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Plugins
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:17          23784 LogPlugins.dll                                                        
+-a----       05/08/2019     09:13            868 SplunkConfigFileFormat.txt                                            
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Resources
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:13           1234 Close_30px.png                                                        
+-a----       05/08/2019     09:13           1234 Contract_100px.png                                                    
+-a----       05/08/2019     09:13            964 UnknownSkillCategory.png                                              
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Tesseract
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+d-----       13/08/2019     16:15                tessdata                                                              
+-a----       05/08/2019     09:13        3593728 tesseract-4.0.0.exe                                                   
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Tesseract\tessdata
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+d-----       13/08/2019     16:15                configs                                                               
+d-----       13/08/2019     16:15                tessconfigs                                                           
+-a----       05/08/2019     09:13       31873501 eng.traineddata                                                       
+-a----       05/08/2019     09:13             33 eng.user-patterns                                                     
+-a----       05/08/2019     09:13             27 eng.user-words                                                        
+-a----       05/08/2019     09:13           1373 Makefile.am                                                           
+-a----       05/08/2019     09:13            572 pdf.ttf                                                               
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Tesseract\tessdata\configs
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:13            146 ambigs.train                                                          
+-a----       05/08/2019     09:13             26 api_config                                                            
+-a----       05/08/2019     09:13            113 bazaar                                                                
+-a----       05/08/2019     09:13            129 bigram                                                                
+-a----       05/08/2019     09:13            355 box.train                                                             
+-a----       05/08/2019     09:13            355 box.train.stderr                                                      
+-a----       05/08/2019     09:13             37 digits                                                                
+-a----       05/08/2019     09:13             24 get.image                                                             
+-a----       05/08/2019     09:13             40 hocr                                                                  
+-a----       05/08/2019     09:13             59 inter                                                                 
+-a----       05/08/2019     09:13            101 kannada                                                               
+-a----       05/08/2019     09:13             70 linebox                                                               
+-a----       05/08/2019     09:13             25 logfile                                                               
+-a----       05/08/2019     09:13            328 lstm.train                                                            
+-a----       05/08/2019     09:13             98 lstmdebug                                                             
+-a----       05/08/2019     09:13             26 makebox                                                               
+-a----       05/08/2019     09:13            402 Makefile.am                                                           
+-a----       05/08/2019     09:13             22 pdf                                                                   
+-a----       05/08/2019     09:13             21 quiet                                                                 
+-a----       05/08/2019     09:13             65 rebox                                                                 
+-a----       05/08/2019     09:13            377 strokewidth                                                           
+-a----       05/08/2019     09:13             22 tsv                                                                   
+-a----       05/08/2019     09:13            166 txt                                                                   
+-a----       05/08/2019     09:13             45 unlv                                                                  
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\Tesseract\tessdata\tessconfigs
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:13             49 batch                                                                 
+-a----       05/08/2019     09:13             37 batch.nochop                                                          
+-a----       05/08/2019     09:13            166 Makefile.am                                                           
+-a----       05/08/2019     09:13            243 matdemo                                                               
+-a----       05/08/2019     09:13            402 msdemo                                                                
+-a----       05/08/2019     09:13              1 nobatch                                                               
+-a----       05/08/2019     09:13            329 segdemo                                                               
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\VBO
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:13          50254 BPA Object - Calendars.xml                                            
+-a----       05/08/2019     09:13          27900 BPA Object - Data - OLEDB.xml                                         
+-a----       05/08/2019     09:13         144611 BPA Object - Data - SQL Server.xml                                    
+-a----       05/08/2019     09:13         303033 BPA Object - Email - POP3_SMTP.xml                                    
+-a----       05/08/2019     09:13          53306 BPA Object - Google Sheets.xml                                        
+-a----       05/08/2019     09:13         498274 BPA Object - MS Excel.xml                                             
+-a----       05/08/2019     09:13         161984 BPA Object - MS Outlook Email.xml                                     
+-a----       05/08/2019     09:13         163842 BPA Object - MS Word.xml                                              
+-a----       05/08/2019     09:13          31488 BPA Object - System - Active Directory.xml                            
+-a----       05/08/2019     09:13         184807 BPA Object - Utility - Collection Manipulation.xml                    
+-a----       05/08/2019     09:13          51391 BPA Object - Utility - Date and Time Manipulation.xml                 
+-a----       05/08/2019     09:13          15154 BPA Object - Utility - Encryption.xml                                 
+-a----       05/08/2019     09:13          72532 BPA Object - Utility - Environment.xml                                
+-a----       05/08/2019     09:13         147333 BPA Object - Utility - File Management.xml                            
+-a----       05/08/2019     09:13          23836 BPA Object - Utility - Foreground Locker.xml                          
+-a----       05/08/2019     09:13          18063 BPA Object - Utility - General.xml                                    
+-a----       05/08/2019     09:13          60323 BPA Object - Utility - HTTP.xml                                       
+-a----       05/08/2019     09:13          46249 BPA Object - Utility - Image Manipulation.xml                         
+-a----       05/08/2019     09:13          23937 BPA Object - Utility - JSON.xml                                       
+-a----       05/08/2019     09:13          59944 BPA Object - Utility - Locking.xml                                    
+-a----       05/08/2019     09:13          12001 BPA Object - Utility - Network.xml                                    
+-a----       05/08/2019     09:13          49080 BPA Object - Utility - Numeric Operations.xml                         
+-a----       05/08/2019     09:13         127776 BPA Object - Utility - Strings.xml                                    
+-a----       05/08/2019     09:13          42805 BPA Object - Utility - Windows Compressed File.xml                    
+-a----       05/08/2019     09:13          61658 BPA Object - Webservices - OAuth2.0.xml                               
+-a----       05/08/2019     09:13          50863 BPA Object - Webservices - REST.xml                                   
+
+
+    Directory: C:\program files (x86)\Blue Prism Limited\Blue Prism Automate\zh-Hans
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+-a----       05/08/2019     09:17         154624 AMI.resources.dll                                                     
+-a----       05/08/2019     09:17           8192 ApplicationManagerUtilities.resources.dll                             
+-a----       05/08/2019     09:18           4096 AppMan.resources.dll                                                  
+-a----       05/08/2019     09:19           3584 Automate.resources.dll                                                
+-a----       05/08/2019     09:17         210944 AutomateAppCore.resources.dll                                         
+-a----       05/08/2019     09:18          46080 AutomateC.resources.dll                                               
+-a----       05/08/2019     09:18          25600 AutomateConfig.resources.dll                                          
+-a----       05/08/2019     09:17          12288 AutomateControls.resources.dll                                        
+-a----       05/08/2019     09:17         311296 AutomateProcessCore.resources.dll                                     
+-a----       05/08/2019     09:19         613376 AutomateUI.resources.dll                                              
+-a----       05/08/2019     09:17           7680 BluePrism.Core.resources.dll                                          
+-a----       05/08/2019     09:17           4096 BluePrism.Data.resources.dll                                          
+-a----       05/08/2019     09:18           6656 BluePrism.Datapipeline.Logstash.resources.dll                         
+-a----       05/08/2019     09:17           4608 BluePrism.DataPipeline.resources.dll                                  
+-a----       05/08/2019     09:17           4096 BluePrism.DocumentProcessing.Integration.resources.dll                
+-a----       05/08/2019     09:17           6144 BluePrism.Images.resources.dll                                        
+-a----       05/08/2019     09:17           4096 BluePrism.Skills.resources.dll                                        
+-a----       05/08/2019     09:17          28160 BPATerminalEmulation.resources.dll                                    
+-a----       05/08/2019     09:17          23552 BPCoreLib.resources.dll                                               
+-a----       05/08/2019     09:18          32768 BPDiagnostics.resources.dll                                           
+-a----       05/08/2019     09:17           9216 BPScheduler.resources.dll                                             
+-a----       05/08/2019     09:19          27136 BPServer.resources.dll                                                
+-a----       05/08/2019     09:19           3584 BPServerService.resources.dll                                         
+-a----       05/08/2019     09:17          42496 CharMatching.resources.dll                                            
+-a----       05/08/2019     09:17           4096 Citrix.resources.dll                                                  
+-a----       05/08/2019     09:17          56320 ClientComms.resources.dll                                             
+-a----       05/08/2019     09:17           3584 ClientCommsI.resources.dll                                            
+-a----       05/08/2019     09:17           4608 HTML.resources.dll                                                    
+-a----       05/08/2019     09:16           9216 Internationalisation.resources.dll                                    
+-a----       05/08/2019     09:17           5120 JABWrapper.resources.dll                                              
+-a----       05/08/2019     09:16         154112 LocaleTools.resources.dll                                             
+-a----       05/08/2019     09:17           4608 WindowSpy.resources.dll                                               
+
+
