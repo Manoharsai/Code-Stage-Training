@@ -3,8 +3,6 @@ Some guidance items on creating code stages. Associated items for an work in pro
 At the time of writing 16/12/2019 This repo is the supporting items for an upcoming document on the creating of code stages.
 It will not mean very much without that document.
 
-Check back in the new year when the document should be in place and it will be referred to from here.
+Document is now complete and awaiting approval.
 
-Happy Holidays
-
-Merry Christmas and a Happy New Year
+The release file has been updated to include a VB version of the code.
